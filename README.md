@@ -23,6 +23,13 @@ This project was completed as part of a **Finance course at Concordia University
 
 ---
 
+### Assumptions
+
+- Risk-free rate assumed at 2.8% annually.
+- Investor’s coefficient of risk aversion assumed to be 3
+
+---
+
 ## 🔍 Methodology
 
 ### Part 1: Portfolio Optimization
@@ -43,7 +50,4 @@ This project was completed as part of a **Finance course at Concordia University
 
 ---
 
-### Assumptions
 
-- Risk-free rate assumed at 2.8% annually.
-- Investor’s coefficient of risk aversion assumed to be 3
