@@ -42,7 +42,7 @@ This project was completed as part of a **Finance course at Concordia University
 
 ## 🔍 Methodology
 
-### Part 1, Section A: Portfolio Optimization
+### Part 1: Portfolio Optimization
 
 - Selected 5 Canadian stocks.
 - Calculated weekly returns, mean returns, and covariance matrix.
