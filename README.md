@@ -6,7 +6,7 @@ This project was completed as part of a **Finance course at Concordia University
 
 ## 🎯 Project Objectives
 
-- 📊 Build an optimal portfolio of five Canadian stocks based on weekly returns (Feb 16, 2024 – Feb 14, 2025).
+- 📊 Build an optimal portfolio of five Canadian stocks based on weekly returns (Feb 19, 2024 – Feb 10, 2025).
 - 📉 Calculate risk (covariance matrix) and expected returns.
 - ⚖️ Determine portfolio weights including a risk-free asset for a risk-averse investor.
 - 📈 Compute portfolio performance metrics such as expected return and Sharpe ratio.
