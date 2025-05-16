@@ -23,7 +23,17 @@ This project was completed as part of a **Finance course at Concordia University
 
 ---
 
-### Assumptions
+## 📁 Project Structure
+
+- Sheet `1-A`: Weekly returns calculation and covariance matrix of the selected stocks.
+- Sheet `1-B`: Application of the Markowitz model to find optimal portfolio weights.
+- Sheet `1-C`: Calculation of expected return and Sharpe ratio of the complete portfolio.
+- Sheet `1-D`: Contains calculations for the optimal weight of the risky portfolio within the complete portfolio, as well as the weight of each individual security within the risky portfolio.
+- Sheet `1-E`: Analysis of an equal-weight portfolio and comparison with the optimized portfolio.
+
+---
+
+## 📌 Assumptions
 
 - Risk-free rate assumed at 2.8% annually.
 - Investor’s coefficient of risk aversion assumed to be 3
@@ -32,7 +42,7 @@ This project was completed as part of a **Finance course at Concordia University
 
 ## 🔍 Methodology
 
-### Part 1: Portfolio Optimization
+### Part 1, Section A: Portfolio Optimization
 
 - Selected 5 Canadian stocks.
 - Calculated weekly returns, mean returns, and covariance matrix.
@@ -49,3 +59,4 @@ This project was completed as part of a **Finance course at Concordia University
 - Analyzed regression results (R-squared, intercept, slope) for model validity.
 
 ---
+
