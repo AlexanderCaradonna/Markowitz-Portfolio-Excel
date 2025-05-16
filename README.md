@@ -50,4 +50,14 @@ This project was completed as part of a **Finance course at Concordia University
 
 ---
 
+📐 Formulas Used
 
+✅ Estimated expected return based on historical data:
+
+![image](https://github.com/user-attachments/assets/7080cbbb-5f6d-497e-9729-b9effbb4b990)
+
+✅ Weekly return:
+
+![Capture](https://github.com/user-attachments/assets/22cf4d14-b325-4f10-b76a-b60e6d91c993)
+
+---
