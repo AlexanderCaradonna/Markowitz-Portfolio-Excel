@@ -74,7 +74,7 @@ This project was completed as part of a **Finance course at Concordia University
 | **Covariance Matrix (V)** | A matrix that shows how two or more assets move together. Used to measure portfolio risk.              |
 | **E(ri)**                 | Expected return of stock *i* based on historical average weekly returns.                               |
 | **rf**                    | Risk-free rate. Assumed to be 2.8% annually in this project.                                           |
-| **A**                     | Risk aversion coefficient. Measures how much an investor dislikes risk. Assumed to be 3 in this project|
+| **A**                     | Risk aversion coefficient. Measures how much an investor dislikes risk. Assumed to be 3 in this project.|
 | **RP**                    | Vector of risk premiums: `RP = E(ri) - rf`.                                                            |
 | **V⁻¹**                   | Inverse of the covariance matrix. Used in the Markowitz optimization formula.                          |
 | **y**                     | Vector of optimal weights for each risky asset in the complete portfolio.                              |
