@@ -63,3 +63,8 @@ This project was completed as part of a **Finance course at Concordia University
 
 ---
 
+💾 Data Source
+
+Weekly adjusted closing prices for each stock and the market index (S&P/TSX) were obtained from Yahoo Finance for the period February 19, 2024 – February 10, 2025. This data was used to calculate returns, estimate betas, and test CAPM.
+
+---
