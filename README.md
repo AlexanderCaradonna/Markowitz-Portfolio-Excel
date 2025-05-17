@@ -65,6 +65,29 @@ This project was completed as part of a **Finance course at Concordia University
 
 ---
 
+| Term / Symbol             | Definition                                                                                             |
+| ------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Return**                | The gain or loss of an asset over a period, typically expressed as a percentage.                       |
+| **Weekly Return**         | Percentage change in stock price from one week to the next.                                            |
+| **Covariance Matrix (V)** | A matrix that shows how two or more assets move together. Used to measure portfolio risk.              |
+| **E(ri)**                 | Expected return of stock *i* based on historical average weekly returns.                               |
+| **rf**                    | Risk-free rate. Assumed to be 2.8% annually in this project.                                           |
+| **A**                     | Risk aversion coefficient. Measures how much an investor dislikes risk. Assumed to be 3 in this project|
+| **RP**                    | Vector of risk premiums: `RP = E(R) - rf`.                                                             |
+| **V⁻¹**                   | Inverse of the covariance matrix. Used in the Markowitz optimization formula.                          |
+| **y**                     | Vector of optimal weights for each risky asset in the complete portfolio.                              |
+| **y\_Tbill**              | Weight of the T-bill (risk-free asset) in the complete portfolio.                                      |
+| **Y**                     | Vector of risky asset weights in the complete portfolio (excluding the T-bill).                        |
+| **σ²**                    | Variance of the complete portfolio.                                                                    |
+| **Sharpe Ratio**          | A measure of risk-adjusted return: `(E(rc) - rf) / σ`. Higher values indicate better performance.      |
+| **Alpha (α)**             | The regression intercept in CAPM. If close to 0, it suggests the CAPM fits well.                       |
+| **Beta (β)**              | Measures a stock’s sensitivity to market movements. Estimated using regression against a market index. |
+| **CAPM**                  | Capital Asset Pricing Model: predicts the expected return of an asset based on its beta.               |
+| **R-squared (R²)**        | Indicates how well the regression line fits the data. Higher R² suggests better model fit.             |
+
+
+---
+
 💾 Data Source
 
 Weekly adjusted closing prices for each stock and the market index (S&P/TSX) were obtained from Yahoo Finance for the period February 19, 2024 – February 10, 2025. This data was used to calculate returns, estimate betas, and test CAPM.
