@@ -78,7 +78,7 @@ This project was completed as part of a **Finance course at Concordia University
 | **RP**                    | Vector of risk premiums: `RP = E(ri) - rf`.                                                            |
 | **V⁻¹**                   | Inverse of the covariance matrix. Used in the Markowitz optimization formula.                          |
 | **y**                     | Vector of optimal weights for each risky asset in the complete portfolio.                              |
-| **y\_Tbill**              | Weight of the T-bill (risk-free asset) in the complete portfolio.                                      |
+| **y_Tbill**               | Weight of the T-bill (risk-free asset) in the complete portfolio.                                      |
 | **Y**                     | Vector of risky asset weights in the complete portfolio (excluding the T-bill).                        |
 | **σ²**                    | Variance of the complete portfolio.                                                                    |
 | **Sharpe Ratio**          | A measure of risk-adjusted return: `(E(rc) - rf) / σ`. Higher values indicate better performance.      |
@@ -86,7 +86,7 @@ This project was completed as part of a **Finance course at Concordia University
 | **Beta (β)**              | Measures a stock’s sensitivity to market movements. Estimated using regression against a market index. |
 | **CAPM**                  | Capital Asset Pricing Model: predicts the expected return of an asset based on its beta.               |
 | **R-squared (R²)**        | Indicates how well the regression line fits the data. Higher R² suggests better model fit.             |
-| ** Y^T **                 | Transpose of the vector of risky asset weights. Converts the column vector \( \mathbf{Y} \) into a row vector to enable matrix multiplication in variance calculations. |
+| **Y^T**                   | Transpose of the vector of risky asset weights. Converts the column vector \( \mathbf{Y} \) into a row vector to enable matrix multiplication in variance calculations. |
 
 
 ---
