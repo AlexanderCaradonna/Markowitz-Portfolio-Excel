@@ -25,12 +25,13 @@ This project was completed as part of a **Finance course at Concordia University
 
 ## 📁 Project Structure
 
-- Sheet `1-A`: Weekly returns calculation and covariance matrix of the selected stocks.
-- Sheet `1-B`: Application of the Markowitz model to find optimal portfolio weights.
-- Sheet `1-C`: Calculation of expected return and Sharpe ratio of the complete portfolio.
-- Sheet `1-D`: Contains calculations for the optimal weight of the risky portfolio within the complete portfolio, as well as the weight of each individual security within the risky portfolio.
-- Sheet `1-E`: Analysis of an equal-weight portfolio and comparison with the optimized portfolio.
-- Sheet `2`: Performed regression analysis to estimate each stock's beta using the S&P/TSX index as the market portfolio. Then ran a second regression of mean returns vs. betas to test the validity of CAPM.
+- File: `Portfolio_FinalWorkbook.xlsx`
+  - Sheet `1-A`: Weekly returns calculation and covariance matrix of the selected stocks.
+  - Sheet `1-B`: Application of the Markowitz model to find optimal portfolio weights.
+  - Sheet `1-C`: Calculation of expected return and Sharpe ratio of the complete portfolio.
+  - Sheet `1-D`: Contains calculations for the optimal weight of the risky portfolio within the complete portfolio, as well as the weight of each individual security within the risky portfolio.
+  - Sheet `1-E`: Analysis of an equal-weight portfolio and comparison with the optimized portfolio.
+  - Sheet `2`: Performed regression analysis to estimate each stock's beta using the S&P/TSX index as the market portfolio. Then ran a second regression of mean returns vs. betas to test the validity of CAPM.
 
 
 
