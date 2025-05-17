@@ -86,6 +86,7 @@ This project was completed as part of a **Finance course at Concordia University
 | **Beta (β)**              | Measures a stock’s sensitivity to market movements. Estimated using regression against a market index. |
 | **CAPM**                  | Capital Asset Pricing Model: predicts the expected return of an asset based on its beta.               |
 | **R-squared (R²)**        | Indicates how well the regression line fits the data. Higher R² suggests better model fit.             |
+| **\( \mathbf{Y}^\top \)** | Transpose of the vector of risky asset weights. Converts the column vector \( \mathbf{Y} \) into a row vector to enable matrix multiplication in variance calculations. |
 
 
 ---
