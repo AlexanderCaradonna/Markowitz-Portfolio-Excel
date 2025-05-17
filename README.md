@@ -26,6 +26,7 @@ This project was completed as part of a **Finance course at Concordia University
 ## 📁 Project Structure
 
 - File: `Portfolio_FinalWorkbook.xlsx`
+
   - Sheet `1-A`: Weekly returns calculation and covariance matrix of the selected stocks.
   - Sheet `1-B`: Application of the Markowitz model to find optimal portfolio weights.
   - Sheet `1-C`: Calculation of expected return and Sharpe ratio of the complete portfolio.
