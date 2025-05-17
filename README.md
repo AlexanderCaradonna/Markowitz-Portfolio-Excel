@@ -81,7 +81,7 @@ This project was completed as part of a **Finance course at Concordia University
 | **y_Tbill**               | Weight of the T-bill (risk-free asset) in the complete portfolio.                                      |
 | **Y**                     | Vector of risky asset weights in the complete portfolio (excluding the T-bill).                        |
 | **σ²**                    | Variance of the complete portfolio.                                                                    |
-| **Sharpe Ratio**          | A measure of risk-adjusted return: `(E(rc) - rf) / σ`. Higher values indicate better performance.      |
+| **Sharpe Ratio**          | A measure of risk-adjusted return: `(E(rc) - rf) / σc`. Higher values indicate better performance.     |
 | **Alpha (α)**             | The regression intercept in CAPM. If close to 0, it suggests the CAPM fits well.                       |
 | **Beta (β)**              | Measures a stock’s sensitivity to market movements. Estimated using regression against a market index. |
 | **CAPM**                  | Capital Asset Pricing Model: predicts the expected return of an asset based on its beta.               |
